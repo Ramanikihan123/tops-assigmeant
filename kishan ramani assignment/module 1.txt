@@ -1,0 +1,61 @@
+                                                                               (Software Engineering Assignment)
+
+*MODULE: 1 (SDLC)
+1) What is software? What is software engineering?
+=>software is nothing but set of instruction.
+=>software engineering is a technique through which we can devloped or created software for computer systems and any other electronic devices.
+
+
+2) Explain types of software
+=>3 types of software 
+1)system software
+=>system software is a software desighed a platform to other software.
+2)application  software
+=>application software  the software that helps you to do a specific type of works is called application software.
+3)utility software
+=>utility software helps to manage ,maintain and control computer resources 
+
+3) What is SDLC? Explain each phase of SDLC
+=>SDLC full foam software devlopment life cycle.
+=>it describes the sequence of phases or steps to develope any software,in simple word "entire life time of software from eging to ending.
+
+
+4) What is DFD? Create a DFD diagram on Flipkart
+=>DFD full foam "data flow diagram.
+=>
+
+
+5) What is Flow chart? Create a flowchart to make addition of two numbers
+=> flow chart is a symbolic or diagrammatic representation of an algoritham. if uses several geometrical figures to represent the operations, and arrows to show the direction of flow.
+=>                                                                    start
+                                                                        |     
+                                                                    read a,b
+                                                                        |                                                             
+                                                                     sum=a+b
+                                                                        |
+                                                                    print sum
+                                                                        |
+                                                                      stop
+ 
+6) What is Use case Diagram? Create a use-case on bill payment on paytm.
+=>To model a system the most important aspect is to capture the dynamic behaviour. dynamic behavio means the behaviour of the system 
+    ehwn it is running/operating.
+=>                                                                          system
+
+  (buy stock)  <---------> (make paymeant)
+        |
+[[manger]]                                                                                                                                                              [[supplier]] 
+        |                                                                                                                                                                    |                            
+(generate sale report)                                                                                                                                        (supply stock)  ( receive payment )                                                                                                       
+ 
+
+
+
+[[investory system]]<-------->(update inventory)                                                                    (select items)<---------->[[cashier]]
+                                                                                                                      |         |                     
+                                                                                                                 (payment)      (scan items)
+                                                                                                                     |              |                       
+[[customer]]                                                                                                         |              |                         
+                                                                                           (by case)(by creadit)(by debit)        (scan items)
+
+
